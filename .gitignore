@@ -1,0 +1,4 @@
+.env
+thesis_hrv_rag-env
+__pycache__/
+*.pyc
