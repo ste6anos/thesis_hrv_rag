@@ -4,6 +4,10 @@ A Retrieval-Augmented Generation (RAG) system built over a Greek medical thesis 
 
 ## Demo
 
+Try it live:** [huggingface.co/spaces/ste6anos/thesis_hrv_rag](https://huggingface.co/spaces/ste6anos/thesis_hrv_rag)
+
+> Note: The app may take 1-2 minutes to wake up if it has been inactive.
+
 Built as a portfolio project for ML engineering roles. Demonstrates end-to-end RAG pipeline with multilingual support.
 
 ## Features
