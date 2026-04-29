@@ -1,7 +1,6 @@
 # HRV Thesis RAG Assistant
 
-A Retrieval-Augmented Generation (RAG) system built over a Greek medical thesis on Heart Rate Variability (HRV) analysis in Psoriatic Arthritis patients. Ask questions in Greek or English and get answers grounded in the thesis content.
-
+A Retrieval-Augmented Generation (RAG) system built over my diploma thesis on Heart Rate Variability (HRV) analysis in Psoriatic Arthritis patients. Born out of two parallel needs — presenting my research in an interactive way and getting hands-on experience with Gen AI — this project turned my thesis into a live, queryable assistant. Ask questions in Greek or English and get answers grounded in the thesis content.
 ## Demo
 
 Try it live:** [huggingface.co/spaces/ste6anos/thesis_hrv_rag](https://huggingface.co/spaces/ste6anos/thesis_hrv_rag)
